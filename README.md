@@ -58,11 +58,11 @@ negative and neutral. To view the numerical distribution of these three categori
 method is used to view the distributions of each label. As can be seen from Figure 25, 46% of the tweets
 have neutral sentiments followed by 30% positive and 24 % negative sentiments.
 
-![alt text](https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart1.png {width=200px height=200px})
+![alt text](https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart1.png =200x200)
 
 After checking the distribution of sentiments from the tweets, the distribution of sentiments amongst
 top 5 countries are also explored, as shown in Figure 26 neutral sentiment has the highest distribution in
 tweets from Australia, United States, United Kingdom, Canada and India followed by positive and
 negative sentiments respectively.
 
-![alt text](https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart2.png {width=200px height=200px})
+![alt text](https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart2.png =200x200)
