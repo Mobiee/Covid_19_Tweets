@@ -60,7 +60,7 @@ method is used to view the distributions of each label. As can be seen from Figu
 have neutral sentiments followed by 30% positive and 24 % negative sentiments.
 
 
-<img src="https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart1.png" width="200" height="200" />
+<img src="https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart1.png" width="300" height="200" />
 
 
 After checking the distribution of sentiments from the tweets, the distribution of sentiments amongst
@@ -68,6 +68,6 @@ top 5 countries are also explored, as shown in Figure 26 neutral sentiment has t
 tweets from Australia, United States, United Kingdom, Canada and India followed by positive and
 negative sentiments respectively.
 
-<img src="https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart2.png" width="200" height="200" />
+<img src="https://github.com/Mobiee/Covid_19_Tweets/blob/main/screenshots%20/barchart2.png" width="400" height="300" />
 
 
